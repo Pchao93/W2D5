@@ -1,0 +1,43 @@
+div {
+
+  padding: 50px;
+  border: 5px solid black;
+
+}
+
+#first-div {
+  width: 200px;
+  height: 200px;
+  background-color: #39cccc;
+}
+#second-div {
+  background-color: #ff4136;
+  box-sizing: border-box;
+
+}
+
+#third-div {
+  min-height: 10px
+}
+
+.image-1-container {
+  width: 200px;
+  height: 600px;
+  background-color: yellow;
+
+}
+
+.image-2-container {
+  min-width: 200px;
+  min-height: 600px;
+  background-color: yellow;
+
+}
+
+.image-1-container img {
+  width: 100%;
+}
+
+p {
+  background-color: #7fdbff;
+}
